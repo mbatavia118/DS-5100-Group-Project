@@ -2,6 +2,8 @@
 
 Semester Project
 
+Github repo: https://github.com/grm7q/DS-5100-Group-Project
+
 Members: 
 Batavia, Mariska <vgg2zw@virginia.edu>
 Catherine Bielick <MVG4RV@hscmail.mcc.virginia.edu>
@@ -92,15 +94,26 @@ Total Points	100
 •	
 
 
-Some seem to be better than others, I see a few epi datasets including HIV as well. Let me know what you think?
+++++++++++++++++++++++++++++++++++++ ++++++++++++++++++ ++++++++++++++++++ ++++++++++++++++++ ++++++++++++++++++ ++++++++++++++++++ ++++++++++++++++++ 
+Overall Topic: For Charlottesville and Albemarle County, how did mobility (as measured by Google Mobility data) change in response to the pandemic and how did socioeconomic factors influence those changes? 
 
-Catherine 
 
- 
-For Charlottesville and Albemarle County, how did mobility (as measured by Google Mobility data) change over time in response to the pandemic? 
-	4 questions: 
+4 questions: 
 1.	Which changed more drastically, mobility in Albemarle county or mobility in Charlottesville City? Instead of just comparing two counties, we can look at changes in mobility across different counties according to whatever variable(s) we add. For example, were changes in mobility more drastic for counties with high/low poverty, different racial/ethnic breakdown, number of nonnative English speakers, educational attainment, etc.?
 2.	Using NYT data, did troughs in mobility correlate with peaks in incidence of new COVID cases? If so, did this correlation differ between counties when we break down by our variable of interest?
 3.	Did peaks in mobility reliably occur before peaks in incidence? In other words, could mobility be used to predict peaks in incidence with a certain lag time?
 4.	What type of mobility destinations (i.e. grocery, transit, workplaces, parks, retail, etc.) correlated best with COVID trends? This would be very interesting to break down by some economic or demographic factor. In places with high poverty, for example, I might predict less of a decline to workplaces than in places that are more affluent.
 ![image](https://user-images.githubusercontent.com/34383440/153308496-24f48b44-d07d-45ca-a584-2c8abc34b981.png)
+
+++++++++++++++++++++++++++++++++++++ ++++++++++++++++++ ++++++++++++++++++ ++++++++++++++++++ ++++++++++++++++++ ++++++++++++++++++ ++++++++++++++++++ 
+
+Meeting Notes: 
+
+
+Meeting 2/8/22
+? break down initial work 
+- tidy data
+	-Greg: Google mobility data
+	-Wenwei: NYT data
+	-Mariska: educational attainment and rural/non-rural by county
+	-Catherine: combine datasets and make sure filtered and complete by State == Virginia and Counties
