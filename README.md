@@ -3,6 +3,10 @@
 Semester Project
 
 Github repo: https://github.com/grm7q/DS-5100-Group-Project
+Class spreadsheet links: 
+https://collab.its.virginia.edu/portal/site/987634f5-80b0-4c12-a669-d6027dff39c9/tool/be8cc889-b057-474f-a0a4-8d4b7e892274/
+https://docs.google.com/spreadsheets/d/1JBGFHZdWqKpvFj2QU-vALWAYz0AXmoGI5E27-_-xzxc/edit?usp=sharing
+https://myuva-my.sharepoint.com/:x:/g/personal/efe7vn_virginia_edu/Ebg-dOWKt8NDvjd3awxmlOsBJvtMrU1plP4J5F1RLOlh0A?e=PIHZdj&CID=f81ad3b5-6ffe-c87f-3def-8645dc320146
 
 Members: 
 Batavia, Mariska <vgg2zw@virginia.edu>
