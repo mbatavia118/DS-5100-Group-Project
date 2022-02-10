@@ -13,7 +13,7 @@ Batavia, Mariska <vgg2zw@virginia.edu>
 Catherine Bielick <MVG4RV@hscmail.mcc.virginia.edu>
 Zeng, WenWei <syr8rq@virginia.edu>
 Gregory Madden <grm7q@virginia.edu>
-
+Mary Evanston	<hyu9dr@virginia.edu>
 
 Project Specifications:
 •	Self-organize into groups of 4 students
