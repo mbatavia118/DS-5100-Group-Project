@@ -2,6 +2,10 @@
 
 Semester Project
 
+Filters: 
+-virginia only, county level
+-First 6 months of pandemic (starting March 1, 2020? )
+
 Github repo: https://github.com/grm7q/DS-5100-Group-Project
 Class spreadsheet links: 
 https://collab.its.virginia.edu/portal/site/987634f5-80b0-4c12-a669-d6027dff39c9/tool/be8cc889-b057-474f-a0a4-8d4b7e892274/
