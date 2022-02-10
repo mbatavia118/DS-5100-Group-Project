@@ -3,7 +3,7 @@
 Semester Project
 
 Filters: 
--virginia only, county level
+-virginia only, county levelff
 -First 6 months of pandemic (starting March 1, 2020? )
 
 Github repo: https://github.com/grm7q/DS-5100-Group-Project
