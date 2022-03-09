@@ -120,3 +120,8 @@ Meeting 2/8/22
 	-Mariska: import and start cleaning/filtering educational attainment and rural/non-rural by county data
 	-Catherine: clean up and clarify our list of 4 research questions on the Google Doc and think about which vizualizations we want (looks like we need at least 4 -one for each question) and what code we might use to implement those once the final combined dataset is ready. 
 	-Mary: How do we join these 3 datasets together and run initial descriptive analyses based on our questions?
+	
+++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Link to Powerpoint slides:
+https://myuva-my.sharepoint.com/personal/vgg2zw_virginia_edu/_layouts/15/doc.aspx?sourcedoc={6ecc93d4-c161-4f9a-8b64-a5a6b7564747}&action=edit
