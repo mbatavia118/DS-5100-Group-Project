@@ -118,13 +118,12 @@ Total Points	100
 ++++++++++++++++++++++++++++++++++++ ++++++++++++++++++ ++++++++++++++++++ ++++++++++++++++++ ++++++++++++++++++ ++++++++++++++++++ ++++++++++++++++++ 
 
 Meeting 3/9/22
-- Coding Tasks
-	-Greg: incorporate  mobility findings for question 1 into powerpoint and written report. 
-	-Wenwei: binding mobility data to your nyt death and case data. plot it for question 2. Incorporate findings into powerpoint and written report.
+Tasks
+	-Greg: incorporate mobility findings for question 1 into powerpoint and written report. 
+	-Wenwei: binding mobility data to your nyt death and case data. Incorporate methods into powerpoint and written report.
 	-Mariska: questions 3/4 with scatterplots. Incorporate findings into powerpoint and written report.
-	-Catherine: Using the dataset created by Wenwei binding mobility data + nyt data to create time series plots for mobility + cases, mobility + deaths (using dual axes?) to answer question 2 (How did mobility associate with death and cases?). Incorporate findings into powerpoint and written report. 
+	-Catherine: Using the dataset created by Wenwei binding mobility data + nyt data, create time series plots for mobility + cases, mobility + deaths (using dual axes?) to answer question 2 (How did mobility associate with death and cases?). Incorporate findings into powerpoint and written report. 
 	-Mary: Create a visualization for question 3 (Was peak reduction in mobility the same for rural and non-rural counties?). Incorporate findings into powerpoint and written report.
-	
 ++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Link to Powerpoint slides:
