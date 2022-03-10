@@ -113,13 +113,13 @@ Total Points	100
 Meeting Notes: 
 
 
-Meeting 2/8/22
+Meeting 3/9/22
 - Coding Tasks
 	-Greg: import and start cleaning/filtering Google mobility data
-	-Wenwei: import and start cleaning/filtering NYT COVID data
-	-Mariska: import and start cleaning/filtering educational attainment and rural/non-rural by county data
-	-Catherine: clean up and clarify our list of 4 research questions on the Google Doc and think about which vizualizations we want (looks like we need at least 4 -one for each question) and what code we might use to implement those once the final combined dataset is ready. 
-	-Mary: How do we join these 3 datasets together and run initial descriptive analyses based on our questions?
+	-Wenwei: binding mobility data to your nyt death and case data. plot it for question 2. 
+	-Mariska: questions 3/4 with scatterplots
+	-Catherine: 
+	-Mary: 
 	
 ++++++++++++++++++++++++++++++++++++++++++++++++++
 
