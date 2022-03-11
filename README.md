@@ -22,6 +22,14 @@ Project Specifications:
 •	Form a research question
 
 ++++++++++++++++++++++++++++++++++++ ++++++++++++++++++ ++++++++++++++++++ ++++++++++++++++++ ++++++++++++++++++ ++++++++++++++++++ ++++++++++++++++++ 
+We sought to answer the following 4 questions in Virginia: 
+
+
+1. When did the largest trough in non-residential 7-day average mobility occur? 
+2. How did mobility associate with death and cases? 
+3. Was peak reduction in mobility the same for rural and non-rural counties?
+4. Was peak reduction in mobility associated with county-level educational attainment?
+++++++++++++++++++++++++++++++++++++ ++++++++++++++++++ ++++++++++++++++++ ++++++++++++++++++ ++++++++++++++++++ ++++++++++++++++++ ++++++++++++++++++ 
 
 Data Sources: 
 1) Using google mobility data (https://www.gstatic.com/covid19/mobility/Global_Mobility_Report.csv?cachebust=6d352e35dcffafce) 
@@ -109,14 +117,14 @@ Total Points	100
 
 ++++++++++++++++++++++++++++++++++++ ++++++++++++++++++ ++++++++++++++++++ ++++++++++++++++++ ++++++++++++++++++ ++++++++++++++++++ ++++++++++++++++++ 
 
+Meeting 3/9/22
+Tasks
+	-Greg: incorporate mobility findings for question 1 into powerpoint and written report. 
+	-Wenwei: binding mobility data to your nyt death and case data. Incorporate methods into powerpoint and written report.
+	-Mariska: questions 3/4 with scatterplots. Incorporate findings into powerpoint and written report.
+	-Catherine: Using the dataset created by Wenwei binding mobility data + nyt data, create time series plots for mobility + cases, mobility + deaths (using dual axes?) to answer question 2 (How did mobility associate with death and cases?). Incorporate findings into powerpoint and written report. 
+	-Mary: Create a visualization for question 3 (Was peak reduction in mobility the same for rural and non-rural counties?). Incorporate findings into powerpoint and written report.
+++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Meeting Notes: 
-
-
-Meeting 2/8/22
-- Coding Tasks
-	-Greg: import and start cleaning/filtering Google mobility data
-	-Wenwei: import and start cleaning/filtering NYT COVID data
-	-Mariska: import and start cleaning/filtering educational attainment and rural/non-rural by county data
-	-Catherine: clean up and clarify our list of 4 research questions on the Google Doc and think about which vizualizations we want (looks like we need at least 4 -one for each question) and what code we might use to implement those once the final combined dataset is ready. 
-	-Mary: How do we join these 3 datasets together and run initial descriptive analyses based on our questions?
+Link to Powerpoint slides:
+https://myuva-my.sharepoint.com/personal/vgg2zw_virginia_edu/_layouts/15/doc.aspx?sourcedoc={6ecc93d4-c161-4f9a-8b64-a5a6b7564747}&action=edit
